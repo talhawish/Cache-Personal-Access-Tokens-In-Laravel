@@ -36,3 +36,10 @@ When revoking a user's access by deleting a token, **invalidate its cache** as w
 ## Contributing
 Feel free to submit issues or pull requests if you have improvements or suggestions!
 
+--- 
+
+## Related Projects
+You can also cache User data to save database query on each authenticated request by following this repository:
+
+[Cache Personal Access Tokens in Laravel](https://github.com/talhawish/Laravel-Cache-User-To-Avoid-Extra-Query-Each-Request)
+
