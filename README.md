@@ -2,7 +2,7 @@
 
 ## Overview
 
-To optimize API requests, cache Personal Access Tokens in the database instead of querying them with every request. This reduces unnecessary queries and improves performance.
+To optimize API requests, cache Personal Access Tokens instead of querying them with every request. This reduces unnecessary queries and improves performance.
 
 ## Implementation
 
